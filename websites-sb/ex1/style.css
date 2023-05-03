@@ -1,0 +1,61 @@
+body {
+    width: 300px;
+    padding: 50px;
+    margin: 20px;
+    
+   
+}
+
+/*body {
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+    align-items: center;*/
+
+.company-contacts{
+   
+    padding: 50px;
+    background-color:lightblue ;
+    border-radius: 20px;
+    border-style: solid;
+   
+
+}
+
+.clients-data{
+    
+    height: 200px;
+    background-color: lightcoral;
+    border-style: solid;
+    padding: 40px;
+    border-radius: 20px;
+
+}
+
+.items{
+   
+    height: 100px;
+    background-color: lemonchiffon;
+    border-style: solid;
+    border: 2px solid;
+    border-radius: 20px;
+    
+
+}
+
+.copyright{
+    
+    height: 50px;
+    background-color: lightseagreen;
+    border-style: solid;
+    border: 2px solid;
+  border-radius: 20px;
+
+}
+
+.data{
+    background-color: white;
+    border-style: solid;
+    border-color: rgb(238, 232, 224);
+}
+
+
