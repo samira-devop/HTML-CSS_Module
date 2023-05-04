@@ -1,0 +1,44 @@
+.white{
+
+    background-color:white;
+}
+
+.gray{
+    background-color:lightgray;
+    padding: 170px;
+    align-items: center;
+    
+}
+
+
+.box{
+    background-color: white;
+    text-align: center;
+    padding: 40px 10px;
+    border: 2px gray;
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.top {
+    text-align: right;
+    padding: 10px;
+    justify-content: right;
+    color: black ;
+    font-size: larger;
+}
+
+.darkgray{
+    background-color:blue;
+    text-align: left;
+    padding: 100px;
+    justify-content: left;
+    color: white;
+    font-size: medium;
+    flex: auto;
+    flex-direction: column;
+    
+}
