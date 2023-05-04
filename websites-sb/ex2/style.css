@@ -1,0 +1,30 @@
+.white{
+
+    background-color:white;
+
+
+}
+
+.gray{
+    background-color:lightgray;
+    padding: 80px;
+    align-items: center;
+    
+}
+
+.darkgray{
+    background-color:slategray;
+    text-align: left;
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    color: white; 
+    text-justify:;
+}
+input {
+    border: 2px solid gray;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 5px;
+   
+}
