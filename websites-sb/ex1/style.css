@@ -1,0 +1,75 @@
+body {
+padding-top: 40px;
+background-color: lightgray;
+text-align: center;
+}
+
+.company-contacts{
+   
+    padding: 20px;
+    background-color:lightblue ;
+    border-radius: 20px;
+    border-style: solid;
+    margin: 20px;
+    flex: 1;
+    text-align: left;
+}
+
+.clients-data{
+    
+    height: 60px;
+    background-color: lightcoral;
+    border-style: solid;
+    padding: 40px;
+    border-radius: 20px;
+    margin: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    
+
+
+
+}
+
+.items{
+ 
+    height: 60px;
+    background-color: lemonchiffon;
+    border-style: solid;
+    border: 2px solid;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 20px;
+    text-align: left;
+
+}
+
+.copyright{
+    
+    height: 20px;
+    background-color: lightseagreen;
+    border-style: solid;
+    border: 2px solid;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 20px;
+    text-align: left;
+
+}
+
+.data{
+    background-color: white;
+    border-style: solid;
+    border-color: rgb(238, 232, 224);
+    padding: 10px;
+    margin: 20px;
+    flex: 1;
+   
+    
+}
+td, tr, th{
+    border:1px solid white;
+}
+
+
