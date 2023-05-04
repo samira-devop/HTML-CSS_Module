@@ -1,0 +1,51 @@
+
+.div{
+  
+    background-color: black;
+}
+    
+.div1{
+    display: flex;
+    background-color: #ffcdd2;
+    padding:100px;
+    flex-direction: column;
+    text-align: center;
+    color: #d83519;
+
+}
+
+.div2{
+    display: flex;
+    background-color: #2941ab;
+    flex-direction: column;
+    padding: 100px;
+    text-align: center;
+    color: #1ed760;
+}
+.button1 {
+    color: white;
+    display:center;
+    background-color: #d83519;
+    border-radius: 20px;
+    width: fit-content;
+    justify-content: center;
+    margin:auto;
+    padding: 15px;
+
+
+}
+.button2 {
+    color: white;
+   text-align: center;
+    background-color: #1ed760;
+    border-radius: 5px;
+    display:center;
+    justify-content: center;
+    width: fit-content;
+    margin: auto;
+    padding: 15px;
+    
+}
+.footer {
+    background-color: black;
+}
